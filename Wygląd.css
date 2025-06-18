@@ -1,0 +1,81 @@
+Body{
+    background-color: rgb(240, 240, 240);
+}
+.Tabela_Rozszeżeń{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 10px;
+    margin-top:  10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#Tabela_Rozszeżeń_G{
+margin-left: 28% ;
+
+}
+h1{
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    
+}
+h2{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-align: left;
+    width: 50% ;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+#Tabela_Podział_M_G{
+  margin-left: 28%  
+}
+.Tabela_Podział_M{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 10px;
+    margin-top:  10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#Miejsce_Urodzenia_G{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top:  10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10%;
+    
+}
+.Atrakcje_T{
+        margin-left: 39%;
+}
+.Atrakcje_Z{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 39%;
+}
+.Atrakcje_G{
+    border-style: solid;
+    border-color: black;
+    border-style: dotted;
+}
+
+img{
+    border-style: solid;
+    border: 5;
+    border-color: black;
+    border-style: double;
+}
+#Mapa{
+   margin-left: 11%; 
+}
+#Formularz{
+ margin-left: 40%;
+ margin-top: 5%;
+ font-size: 25px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
